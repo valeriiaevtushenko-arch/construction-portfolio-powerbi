@@ -160,6 +160,4 @@ An interactive Power BI dashboard with:
 ## 💡 Key Takeaway
 
 *"This project shows I can take raw data, clean it, model it, analyze it, and present it in a format that helps leadership make informed decisions — the full Google Data Analytics cycle in one real-world business case."*
-## 💡 Key Takeaway
 
-*"This project shows I can take raw data, clean it, model it, analyze it, and present it in a format that helps leadership make informed decisions — the full Google Data Analytics cycle in one real-world business case."*
