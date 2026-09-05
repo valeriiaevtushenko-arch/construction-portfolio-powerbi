@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Atlantic_Build_Dashboard.png)
+![Dashboard Screenshot](!Atlantic_Build_Dashboard.png)
 
 ## Key Insights
 
