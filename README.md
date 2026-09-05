@@ -1,5 +1,7 @@
 # Construction Portfolio Financial Tracker — Power BI Dashboard
 
+> **Note:** All data in this project is synthetic and created for portfolio demonstration purposes only.
+
 ## 📌 Ask
 
 **Business Problem:** A construction company manages 5 concurrent projects across 4 provinces (BC, AB, ON, NS, NB) with a total portfolio value of $9.3M CAD. The finance team lacks a centralized tool to track:
