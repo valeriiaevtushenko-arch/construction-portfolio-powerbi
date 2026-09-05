@@ -98,7 +98,7 @@ An interactive Power BI dashboard with:
 
 **Dashboard Preview:**
 
-![Dashboard Screenshot](Atlantic_Build_Dashboard.png)
+![Dashboard Screenshot](!Atlantic_Build_Dashboard.png)
 
 **Live Dashboard Features:**
 - Interactive filters by province, status, and completion %
