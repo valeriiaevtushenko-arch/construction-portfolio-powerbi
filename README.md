@@ -108,7 +108,7 @@ An interactive Power BI dashboard with:
 
 **Dashboard Preview:**
 
-[![Dashboard Screenshot](https://github.com/valeriiaevtushenko-arch/construction-portfolio-powerbi/raw/main/!Atlantic_Build_Dashboard.png)](/valeriiaevtushenko-arch/construction-portfolio-powerbi/blob/main/!Atlantic_Build_Dashboard.png)
+[![Dashboard Screenshot](https://github.com/valeriiaevtushenko-arch/construction-portfolio-powerbi/raw/main/Atlantic_Build_Dashboard_Constr.png)](/valeriiaevtushenko-arch/construction-portfolio-powerbi/blob/main/!Atlantic_Build_Dashboard.png)
 
 **Live Dashboard Features:**
 
