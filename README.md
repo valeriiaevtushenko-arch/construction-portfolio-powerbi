@@ -161,4 +161,4 @@ An interactive Power BI dashboard with:
 
 *"This project shows I can take raw data, clean it, model it, analyze it, and present it in a format that helps leadership make informed decisions — the full Google Data Analytics cycle in one real-world business case."*
 
-© 2025 Valeriia Evtushenko. Portfolio use only.
+© 2026 Valeriia Evtushenko. Portfolio use only.
